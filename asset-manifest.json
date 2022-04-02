@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CalcyCN/static/css/main.0379250a.css",
+    "main.js": "/CalcyCN/static/js/main.7a3a5928.js",
+    "static/js/787.204531bf.chunk.js": "/CalcyCN/static/js/787.204531bf.chunk.js",
+    "index.html": "/CalcyCN/index.html",
+    "main.0379250a.css.map": "/CalcyCN/static/css/main.0379250a.css.map",
+    "main.7a3a5928.js.map": "/CalcyCN/static/js/main.7a3a5928.js.map",
+    "787.204531bf.chunk.js.map": "/CalcyCN/static/js/787.204531bf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0379250a.css",
+    "static/js/main.7a3a5928.js"
+  ]
+}
